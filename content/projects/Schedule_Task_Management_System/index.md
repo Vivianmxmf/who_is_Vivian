@@ -13,6 +13,7 @@ tags:
   - React
   - Flask 
 ---
+![Event Page cut](event_pg.png)
 
 A time management app designed to streamline task tracking and enhance productivity for users. The primary objective is to simplify scheduling and collaboration among individuals. The app caters to anyone seeking to organize their tasks efficiently and manage time effectively, offering features like a calendar view, task categorization, and social interaction. Users can learn about leveraging the app’s functionalities to boost personal productivity and enhance collaborative efforts with others.
 
