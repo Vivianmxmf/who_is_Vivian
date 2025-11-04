@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Vivian Han
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Vivian
+last_name: Han
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She/Her
 
 # Status emoji
 status:
