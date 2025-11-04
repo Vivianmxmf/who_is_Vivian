@@ -82,8 +82,7 @@ education:
   - area: BS Applied Math&Computer Science
     institution: Duke University
     icon: ""
-    date_start: '2022-08-15'
-    date_end: '2025-12-12'
+    date: '2025-12-12'
     summary: |
       GPA: 3.8/4.0
       Early Graduation
@@ -91,19 +90,17 @@ education:
   - area: BS Applied Math&Computer Science
     institution: Duke Kunshan University
     icon: ""
-    date_start: '2022-08-15'
-    date_end: '2025-12-12'
+    date: '2025-12-12'
     summary: |
       GPA: 3.8/4.0
       Early Graduation
 
 work:
-  - position: Resident Assistant (2 years)
+  - position: Resident Assistant (Two years)
     company_name: Duke Kunshan University
     company_url: 'https://www.dukekunshan.edu.cn/'
     icon: ''
-    date_start: '2023-08-18'
-    date_end: '2025-12-12'
+    date: '2025-12-12'
     summary: |-
       Organized 30+ inclusive events-including mini workshops, peer panels and career Q&A sessions
       Actively developed as part of the residence staff, attending regular in-service training and weekly team meetings to refine community programming skills and share best practices.
@@ -119,6 +116,7 @@ work:
       Collaborate with the professor and fellow teaching assistants on the grading process and monitoring students’ learning progress. 
       
 
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -127,7 +125,7 @@ skills:
       - name: Transformer
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: command-line
       - name: Machine Learning
         description: ''
         percent: 100
@@ -135,7 +133,7 @@ skills:
       - name: Software Development
         description: ''
         percent: 95
-        icon: :grin
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
@@ -144,11 +142,11 @@ skills:
       - name: Video Games
         description: ''
         percent: 90
-        icon: person-simple-walk
+        icon: fire
       - name: Watching Movies
         description: ''
         percent: 90
-        icon: person-simple-walk
+        icon: video-camera
       - name: Hoop
         description: ''
         percent: 80
@@ -156,11 +154,11 @@ skills:
       - name: Pingpong
         description: ''
         percent: 70
-        icon: cpu-chip
+        icon: person-simple-walk
       - name: Swimming
         description: ''
         percent: 80
-        icon: book-open
+        icon: person-simple-walk
 
 languages:
   - name: Chinese
