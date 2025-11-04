@@ -82,8 +82,8 @@ education:
   - area: BS Computer Science&Computer Science
     institution: Duke University
     icon: ""
-    date_start: 2022-06
-    date_end: 2025-12
+    date_start: 2022-08-15
+    date_end: 2025-12-12
     summary: |
       GPA: 3.8/4.0
       Early Graduation
@@ -163,14 +163,14 @@ languages:
 awards:
   - title: Dean List with Distinction
     #url: https://neurips.cc/
-    date: '2025-01'
+    date: '2025-01-01'
     awarder: Duke Kunshan University
     icon: hero/trophy
     summary: |
       This honor recognizes those students whose semester grade-point average places them among the highest ten percent of undergraduate students in their class year at DKU.
   - title: Dean List
     #url: https://www.nsf.gov/
-    date: '2025-05''2024-05''2023-08''2023-02'
+    date: '2025-05-01''2024-05-01''2023-08-01''2023-02-01'
     awarder: Duke Kunshan University
     icon: hero/currency-dollar
     summary: |
