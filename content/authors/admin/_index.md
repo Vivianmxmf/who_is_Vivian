@@ -79,8 +79,17 @@ education:
   #     GPA: 4.0/4.0
 
       # Specialized in machine learning and robotics.
-  - area: BS Computer Science&Computer Science
+  - area: BS Applied Math&Computer Science
     institution: Duke University
+    icon: ""
+    date_start: 2022-08-15
+    date_end: 2025-12-12
+    summary: |
+      GPA: 3.8/4.0
+      Early Graduation
+
+  - area: BS Applied Math&Computer Science
+    institution: Duke Kunshan University
     icon: ""
     date_start: 2022-08-15
     date_end: 2025-12-12
