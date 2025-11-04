@@ -109,8 +109,7 @@ work:
     company_name: Duke Kunshan University
     company_url: 'https://www.dukekunshan.edu.cn/'
     icon: ''
-    date_start: '2023-10-11'
-    date_end: '2025-03-31'
+    date: '2025-03-31'
     summary: |
       Leading lab session once a week for guiding students’ mini projects and host office hour for students’ homework problems.
       Collaborate with the professor and fellow teaching assistants on the grading process and monitoring students’ learning progress. 
