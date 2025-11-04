@@ -168,12 +168,8 @@ awards:
     icon: hero/trophy
     summary: |
       This honor recognizes those students whose semester grade-point average places them among the highest ten percent of undergraduate students in their class year at DKU.
-  - title: Dean List
+  - title: Dean List(Four times)
     #url: https://www.nsf.gov/
-    date: '2025-05-01'
-    date: '2024-05-01'
-    date: '2023-08-01'
-    date: '2023-02-01'
     awarder: Duke Kunshan University
     icon: hero/currency-dollar
     summary: |
