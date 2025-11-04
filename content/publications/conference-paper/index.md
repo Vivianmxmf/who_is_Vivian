@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Self-Evolving Narrative Systems (Real-Time Adaptation and Long-Term Optimization with LLMs)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

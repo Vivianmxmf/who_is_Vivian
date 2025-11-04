@@ -98,23 +98,26 @@ education:
       Early Graduation
 
 work:
-  # - position: 
-  #   company_name: Meta AI
-  #   company_url: 'https://ai.meta.com/'
-  #   icon: ''
-  #   date_start: 2020-01-01
-  #   date_end: ''
-  #   summary: |2-
-  #     Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  - position: Resident Assistant (2 years)
+    company_name: Duke Kunshan University
+    company_url: 'https://www.dukekunshan.edu.cn/'
+    icon: ''
+    date_start: 2023-08-18
+    date_end: '2025-12-12'
+    summary: |-
+      Organized 30+ inclusive events-including mini workshops, peer panels and career Q&A sessions
+      Actively developed as part of the residence staff, attending regular in-service training and weekly team meetings to refine community programming skills and share best practices.
 
-  # - position: AI Research Intern
-  #   company_name: OpenAI
-  #   company_url: 'https://openai.com/'
-  #   icon: ''
-  #   date_start: 2019-06-01
-  #   date_end: 2019-12-31
-  #   summary: |
-  #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Computer Science 101 Teaching Assistant (Three Times)
+    company_name: Duke Kunshan University
+    company_url: 'https://www.dukekunshan.edu.cn/'
+    icon: ''
+    date_start: 2023-10-11
+    date_end: 2025-03-31
+    summary: |
+      Leading lab session once a week for guiding students’ mini projects and host office hour for students’ homework problems.
+      Collaborate with the professor and fellow teaching assistants on the grading process and monitoring students’ learning progress. 
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
