@@ -82,8 +82,8 @@ education:
   - area: BS Applied Math&Computer Science
     institution: Duke University
     icon: ""
-    date_start: 2022-08-15
-    date_end: 2025-12-12
+    date_start: '2022-08-15'
+    date_end: '2025-12-12'
     summary: |
       GPA: 3.8/4.0
       Early Graduation
@@ -91,8 +91,8 @@ education:
   - area: BS Applied Math&Computer Science
     institution: Duke Kunshan University
     icon: ""
-    date_start: 2022-08-15
-    date_end: 2025-12-12
+    date_start: '2022-08-15'
+    date_end: '2025-12-12'
     summary: |
       GPA: 3.8/4.0
       Early Graduation
@@ -102,7 +102,7 @@ work:
     company_name: Duke Kunshan University
     company_url: 'https://www.dukekunshan.edu.cn/'
     icon: ''
-    date_start: 2023-08-18
+    date_start: '2023-08-18'
     date_end: '2025-12-12'
     summary: |-
       Organized 30+ inclusive events-including mini workshops, peer panels and career Q&A sessions
@@ -112,8 +112,8 @@ work:
     company_name: Duke Kunshan University
     company_url: 'https://www.dukekunshan.edu.cn/'
     icon: ''
-    date_start: 2023-10-11
-    date_end: 2025-03-31
+    date_start: '2023-10-11'
+    date_end: '2025-03-31'
     summary: |
       Leading lab session once a week for guiding students’ mini projects and host office hour for students’ homework problems.
       Collaborate with the professor and fellow teaching assistants on the grading process and monitoring students’ learning progress. 
