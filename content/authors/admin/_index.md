@@ -113,7 +113,15 @@ work:
     summary: |
       Leading lab session once a week for guiding students’ mini projects and host office hour for students’ homework problems.
       Collaborate with the professor and fellow teaching assistants on the grading process and monitoring students’ learning progress. 
-      
+
+  - position: Advocacy Group (Copywriter, leader) to DKUVA (one year)
+    company_name: Duke Kunshan University(Volunteer Association)
+    icon: ''
+    date: ''
+    summary: |
+      Managed DKUVA’s WeChat acconut: 12 feature posts, 160 followers. 
+      Led recruitment for the Advocacy Group.
+      Supervised a cross-functional team of seven to eight copywriters and photographers.
 
 
 # Skills
