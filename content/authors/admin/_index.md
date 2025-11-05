@@ -96,6 +96,18 @@ education:
       Early Graduation
 
 work:
+  - position: Software Development-Full Stack Developer Intern
+    company_name: Seadee Technologies (Chengdu) Co., Ltd.
+    company_url: 'https://www.seadee.com.cn/index.html'
+    icon: ''
+    date: '2025-03-12'
+    summary: |
+      Delivered 7 REST endpoints (5 session-protected, 2 public) that orchestrate content CRUD through 4 etcd-discovered Kratos gRPC operations, keeping HTTP and gRPC schemas aligned for end-to-end content lifecycle handling.
+      Instrumented the stack with 3 Prometheus vectors and Zipkin 128-bit tracing, exposing p50/p90/p99 latency plus status-code metrics while tracing database spans via the GORM opentracing plugin.
+      Hardened authentication by hashing credentials with bcrypt and minting 8-hour Redis sessions, enforced by middleware that guards the 5 core content endpoints from unauthorized writes. 
+      Tuned the persistence layer with GORM DAOs that default to 10-item pages, support targeted field updates, and operate a 4-open/2-idle connection pool for predictable throughput.
+      
+
   - position: Resident Assistant (Two years)
     company_name: Duke Kunshan University
     company_url: 'https://www.dukekunshan.edu.cn/'
