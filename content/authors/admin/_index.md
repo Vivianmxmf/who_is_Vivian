@@ -107,8 +107,7 @@ work:
       Hardened authentication by hashing credentials with bcrypt and minting 8-hour Redis sessions, enforced by middleware that guards the 5 core content endpoints from unauthorized writes. 
       Tuned the persistence layer with GORM DAOs that default to 10-item pages, support targeted field updates, and operate a 4-open/2-idle connection pool for predictable throughput.
       
-
-  - position: Resident Assistant (Two years)
+  - position: Resident Assistant (Two Years)
     company_name: Duke Kunshan University
     company_url: 'https://www.dukekunshan.edu.cn/'
     icon: ''
@@ -126,7 +125,7 @@ work:
       Leading lab session once a week for guiding students’ mini projects and host office hour for students’ homework problems.
       Collaborate with the professor and fellow teaching assistants on the grading process and monitoring students’ learning progress. 
 
-  - position: Advocacy Group (Copywriter, leader) to DKUVA (one year)
+  - position: Advocacy Group (Copywriter, leader) to DKUVA (One Year)
     company_name: Duke Kunshan University(Volunteer Association)
     icon: ''
     date: ''
